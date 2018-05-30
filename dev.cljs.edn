@@ -1,0 +1,4 @@
+{:main hello.core
+ :output-to "resources/public/js/bundle.js"
+ :output-dir "resources/public/js"
+ :asset-path "/js"}
