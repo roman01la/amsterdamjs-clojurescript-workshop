@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "ide": "clj -m nightlight.core --url \"http://localhost:3000\"",
-    "build": "clojure -m figwheel.main -b dev -r"
-  }
-}
