@@ -2,3 +2,5 @@
 .cpcache
 node_modules
 resources/public/js
+.lein-repl-history
+target
