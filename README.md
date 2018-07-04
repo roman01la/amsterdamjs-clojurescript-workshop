@@ -3,8 +3,7 @@
 _Please do this before workshop. Ping me on Slack if you have any problems with setup._
 
 1.  If you don't have it yet, download and install [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) on your machine
-2.  [Install Clojure CLI](https://clojure.org/guides/getting_started#_clojure_installer_and_cli_tools)
-  - Or use [Leiningen](https://leiningen.org/) if you are on Windows
+2.  [Install Clojure CLI](https://clojure.org/guides/getting_started#_clojure_installer_and_cli_tools) or [Leiningen](https://leiningen.org/) if you are on Windows
 3.  Clone [workshop repository](https://github.com/roman01la/amsterdamjs-clojurescript-workshop) that we are going to work with
 4.  `cd` into repo's directory and execute the following commands
 
