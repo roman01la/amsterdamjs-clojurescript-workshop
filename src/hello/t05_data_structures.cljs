@@ -12,7 +12,7 @@
 ;;
 
 ;; List is a classic singly linked list data structure. Lisp code itself is made out of lists.
-;; Lists support fast append to the end and retrieval of the head (first) element.
+;; Lists support fast append to the beginning and retrieval of the head (first) element.
 '(1 2 3)
 (list? '(1 2 3))
 
